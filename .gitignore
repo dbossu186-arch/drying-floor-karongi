@@ -1,0 +1,5 @@
+data/
+.venv/
+TASK.md
+.DS_Store
+__pycache__/
